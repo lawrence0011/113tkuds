@@ -7,6 +7,7 @@ public class BSTDelete {
         public TreeNode(int data) {
             this.data = data;
         }
+    
     }
     
     // 插入節點

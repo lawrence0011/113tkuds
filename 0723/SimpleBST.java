@@ -21,6 +21,8 @@ public class SimpleBST {
         }
     }
     
+
+    
     public static void main(String[] args) {
         // 手動建立一個BST
         TreeNode root = new TreeNode(50);

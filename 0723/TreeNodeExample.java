@@ -13,6 +13,7 @@ public class TreeNodeExample {
                 this.right = null;
             }
             
+            
             // 顯示節點資訊
             public void displayNode() {
                 System.out.println("節點值: " + data);

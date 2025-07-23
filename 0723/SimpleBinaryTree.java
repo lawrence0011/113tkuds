@@ -8,6 +8,8 @@ public class SimpleBinaryTree {
             this.data = data;
         }
     }
+
+    
     
     public static void main(String[] args) {
         // 建立一個簡單的二元樹

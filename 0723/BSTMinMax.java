@@ -9,6 +9,7 @@ public class BSTMinMax {
         }
     }
     
+    
     // 尋找最小值
     public static int findMin(TreeNode root) {
         if (root == null) throw new RuntimeException("樹是空的");
